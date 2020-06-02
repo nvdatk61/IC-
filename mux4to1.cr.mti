@@ -1,0 +1,46 @@
+{D:/modelsim/examples/tb_mux41df (1).v} {1 {vlog -work work -stats=none {D:/modelsim/examples/tb_mux41df (1).v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} {C:/Users/Mr Dat/Downloads/tb_mux41df.v} {1 {vlog -work work -stats=none {C:/Users/Mr Dat/Downloads/tb_mux41df.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} D:/modelsim/khoai/mux41df.v {1 {vlog -work work -stats=none D:/modelsim/khoai/mux41df.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2to1
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} {D:/modelsim/examples/mux41df (1).v} {1 {vlog -work work -stats=none {D:/modelsim/examples/mux41df (1).v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2to1
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} D:/modelsim/khoai/tb_mux41df.v {1 {vlog -work work -stats=none D:/modelsim/khoai/tb_mux41df.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} {C:/Users/Mr Dat/Downloads/mux41df.v} {1 {vlog -work work -stats=none {C:/Users/Mr Dat/Downloads/mux41df.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2to1
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}}

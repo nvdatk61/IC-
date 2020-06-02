@@ -1,0 +1,19 @@
+D:/modelsim/examples/sign_mag_add.v {1 {vlog -work work -stats=none D:/modelsim/examples/sign_mag_add.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_mag_add
+
+Top level modules:
+	sign_mag_add
+
+} {} {}} D:/modelsim/examples/tb_sign_mag_add.v {2 {vlog -work work -stats=none D:/modelsim/examples/tb_sign_mag_add.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_sign_mag_add
+** Warning: D:/modelsim/examples/tb_sign_mag_add.v(8): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/modelsim/examples/tb_sign_mag_add.v(9): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	tb_sign_mag_add
+
+} {} {}}

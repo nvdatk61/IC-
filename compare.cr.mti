@@ -1,0 +1,15 @@
+D:/modelsim/examples/tb_compare.v {1 {vlog -work work -stats=none {D:\modelsim\examples\tb_compare.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tComp_2
+
+Top level modules:
+	tComp_2
+
+} {} {}} D:/modelsim/examples/compare.v {1 {vlog -work work -stats=none {D:\modelsim\examples\compare.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Comp_2
+
+Top level modules:
+	Comp_2
+
+} {} {}}

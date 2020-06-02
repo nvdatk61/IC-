@@ -1,0 +1,15 @@
+D:/modelsim/examples/dff.v {1 {vlog -work work -stats=none D:/modelsim/examples/dff.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff_reset
+
+Top level modules:
+	d_ff_reset
+
+} {} {}} D:/modelsim/examples/tb_dff.v {1 {vlog -work work -stats=none D:/modelsim/examples/tb_dff.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module t_d_ff_reset
+
+Top level modules:
+	t_d_ff_reset
+
+} {} {}}

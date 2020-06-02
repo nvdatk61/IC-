@@ -1,0 +1,29 @@
+D:/modelsim/examples/tb_u_shift_reg.v {1 {vlog -work work -stats=none {D:\modelsim\examples\tb_u_shift_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_u_shift_reg
+
+Top level modules:
+	tb_u_shift_reg
+
+} {} {}} D:/modelsim/examples/tb_shift_reg.v {1 {vlog -work work -stats=none {D:\modelsim\examples\tb_shift_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_shift_reg
+
+Top level modules:
+	tb_shift_reg
+
+} {} {}} D:/modelsim/examples/shift_reg.v {1 {vlog -work work -stats=none {D:\modelsim\examples\shift_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shift_reg
+
+Top level modules:
+	shift_reg
+
+} {} {}} D:/modelsim/examples/u_shift_reg.v {1 {vlog -work work -stats=none {D:\modelsim\examples\u_shift_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module u_shift_reg
+
+Top level modules:
+	u_shift_reg
+
+} {} {}}

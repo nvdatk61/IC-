@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dd:/modelsim/examples
+vconv
+Z0 !s110 1577262820
+!i10b 1
+!s100 79a>;iSMh>EN@gF>kla8]2
+Il`kY;B77]VSaTIQb0ia8E2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/modelsim/examples/conv_module
+w1577261514
+8C:/Users/Mr Dat/Desktop/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/verilog/code/neuroset/conv.v
+FC:/Users/Mr Dat/Desktop/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/verilog/code/neuroset/conv.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1577262820.000000
+!s107 C:/Users/Mr Dat/Desktop/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/verilog/code/neuroset/conv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mr Dat/Desktop/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA-master/verilog/code/neuroset/conv.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vconv_tb
+R0
+!i10b 1
+!s100 _4U=fmiXQZYPhUiF6dTJN3
+IQWb6SUP<EZjFQ11W`127U3
+R1
+R2
+w1577262813
+8D:/modelsim/examples/conv_module/conv_tb.v
+FD:/modelsim/examples/conv_module/conv_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/modelsim/examples/conv_module/conv_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/conv_module/conv_tb.v|
+!s101 -O0
+!i113 1
+R5

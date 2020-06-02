@@ -1,0 +1,15 @@
+D:/modelsim/examples/ram_module/RAM.v {1 {vlog -work work -stats=none D:/modelsim/examples/ram_module/RAM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} D:/modelsim/examples/ram_module/ram_tb.v {1 {vlog -work work -stats=none D:/modelsim/examples/ram_module/ram_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ram_tb
+
+Top level modules:
+	ram_tb
+
+} {} {}}

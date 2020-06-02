@@ -1,0 +1,139 @@
+# Reading D:/modelsim/tcl/vsim/pref.tcl
+# Loading project relu
+# reading D:/modelsim/win32pe_edu/../modelsim.ini
+# Loading project maxpooling
+# Compile of tb_maxpooling.v was successful.
+# Compile of maxpooling.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.maxp_TB
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui 
+# Start time: 13:25:22 on Dec 25,2019
+# Loading work.maxp_TB
+# Loading work.maxp
+add wave -position insertpoint sim:/maxp_TB/*
+run
+quit -sim
+# reading D:/modelsim/win32pe_edu/../modelsim.ini
+# Loading project ram
+vsim work.ram_tb
+# vsim 
+# Start time: 13:26:36 on Dec 25,2019
+# Loading work.ram_tb
+# Loading work.RAM
+add wave -position insertpoint sim:/ram_tb/*
+run
+# Closing project D:/modelsim/examples/ram_module/ram.mpf
+# reading D:/modelsim/win32pe_edu/../modelsim.ini
+# Loading project conv
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 14:58:56 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:16:27 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+run
+run
+run
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:17:02 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:20:33 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:22:14 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:23:30 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:31:56 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+quit -sim
+# Compile of conv.v was successful.
+# Compile of conv_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.conv_tb
+# vsim 
+# Start time: 15:33:43 on Dec 25,2019
+# Loading work.conv_tb
+# Loading work.conv
+add wave -position insertpoint sim:/conv_tb/*
+run
+quit -sim

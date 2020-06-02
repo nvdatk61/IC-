@@ -1,0 +1,11 @@
+D:/modelsim/examples/floatingpointtung.v {1 {vlog -work work -stats=none D:/modelsim/examples/floatingpointtung.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} {C:/Users/Mr Dat/Downloads/floatingpoint_tb.v} {1 {vlog -work work -stats=none {C:/Users/Mr Dat/Downloads/floatingpoint_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module floatingpoint_tb
+
+Top level modules:
+	floatingpoint_tb
+
+} {} {}}

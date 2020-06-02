@@ -1,0 +1,15 @@
+D:/modelsim/examples/first.v {2 {vlog -work work -stats=none D:/modelsim/examples/first.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cong
+** Warning: D:/modelsim/examples/first.v(8): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	cong
+
+} {} {}} D:/modelsim/examples/myfirst.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/modelsim/examples/myfirst.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error: D:/modelsim/examples/myfirst.vhd(1): near "module": syntax error
+
+} {4.0 5.0} {}}

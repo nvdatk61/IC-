@@ -1,0 +1,29 @@
+D:/modelsim/examples/u_binary_counter.v {1 {vlog -work work -stats=none {D:\modelsim\examples\u_binary_counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module univ_bin_counter
+
+Top level modules:
+	univ_bin_counter
+
+} {} {}} D:/modelsim/examples/f_binary_counter.v {1 {vlog -work work -stats=none {D:\modelsim\examples\f_binary_counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module f_binary_counter
+
+Top level modules:
+	f_binary_counter
+
+} {} {}} D:/modelsim/examples/tb_u_binary_counter.v {1 {vlog -work work -stats=none {D:\modelsim\examples\tb_u_binary_counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_u_binary_counter
+
+Top level modules:
+	tb_u_binary_counter
+
+} {} {}} D:/modelsim/examples/tb_f_binary_counter.v {1 {vlog -work work -stats=none {D:\modelsim\examples\tb_f_binary_counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_f_binary_counter
+
+Top level modules:
+	tb_f_binary_counter
+
+} {} {}}

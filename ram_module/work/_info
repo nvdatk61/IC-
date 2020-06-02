@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/examples/conv_module
+vRAM
+!s110 1577177548
+!i10b 1
+!s100 8XS^W0SfabkUOKdRj:YS83
+IhcLV=R^Rfl0aA^U1B:lGm0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/modelsim/examples/ram_module
+w1577176889
+8D:/modelsim/examples/ram_module/RAM.v
+FD:/modelsim/examples/ram_module/RAM.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1577177548.000000
+!s107 D:/modelsim/examples/ram_module/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/ram_module/RAM.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@r@a@m
+vram_tb
+!s110 1577177547
+!i10b 1
+!s100 1FJ1URSj9l5@LB?od=RGX2
+Ihe[<B68<]CAHEH4k_TMRH1
+R0
+R1
+w1577177543
+8D:/modelsim/examples/ram_module/ram_tb.v
+FD:/modelsim/examples/ram_module/ram_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1577177547.000000
+!s107 D:/modelsim/examples/ram_module/ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/ram_module/ram_tb.v|
+!s101 -O0
+!i113 1
+R3

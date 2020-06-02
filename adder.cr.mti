@@ -1,0 +1,16 @@
+D:/modelsim/examples/halftfull.v {1 {vlog -work work -stats=none D:/modelsim/examples/halftfull.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_add
+-- Compiling module full_add
+
+Top level modules:
+	full_add
+
+} {} {}} D:/modelsim/examples/halftfull_tb.v {1 {vlog -work work -stats=none D:/modelsim/examples/halftfull_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_add_tb
+
+Top level modules:
+	full_add_tb
+
+} {} {}}

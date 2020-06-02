@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/examples/conv_module
+vmaxp
+Z0 !s110 1577255117
+!i10b 1
+!s100 iFI27ndVAM:1i64X:Q3;c3
+IR32LmIUDF]zm1[1R9h25M0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/modelsim/examples/maxpooling_module
+w1577250045
+8D:/modelsim/examples/maxpooling_module/maxpooling.v
+FD:/modelsim/examples/maxpooling_module/maxpooling.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1577255117.000000
+!s107 D:/modelsim/examples/maxpooling_module/maxpooling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/maxpooling_module/maxpooling.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmaxp_TB
+R0
+!i10b 1
+!s100 nDfK_>Sc^W5068I@Nm3ZO3
+IY845[z`U@^INhQCT6?7@B1
+R1
+R2
+w1577178245
+8D:/modelsim/examples/maxpooling_module/tb_maxpooling.v
+FD:/modelsim/examples/maxpooling_module/tb_maxpooling.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/modelsim/examples/maxpooling_module/tb_maxpooling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/maxpooling_module/tb_maxpooling.v|
+!s101 -O0
+!i113 1
+R5
+nmaxp_@t@b

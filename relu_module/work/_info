@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/examples/maxpooling_module
+vrelu6
+!s110 1577251341
+!i10b 1
+!s100 8goQ;>TUS3di>0@[=J7OJ2
+Ie@Cn[QS[>FR`7mn8N2UCk1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/modelsim/examples/relu_module
+w1577251338
+8D:/modelsim/examples/relu_module/relu6.v
+FD:/modelsim/examples/relu_module/relu6.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z3 !s108 1577251340.000000
+!s107 D:/modelsim/examples/relu_module/relu6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/relu_module/relu6.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vrelu6_tb
+!s110 1577251340
+!i10b 1
+!s100 >CeilYG40HDoZkKH[gj`z0
+I]iIjC?GSfE1i30_?IlfTd0
+R0
+R1
+w1577250198
+8D:/modelsim/examples/relu_module/relu6_tb.v
+FD:/modelsim/examples/relu_module/relu6_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/modelsim/examples/relu_module/relu6_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/modelsim/examples/relu_module/relu6_tb.v|
+!s101 -O0
+!i113 1
+R4
